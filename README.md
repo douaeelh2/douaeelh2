@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm EL HILA Douae! 👋
 
 I'm a passionate Full Stack Developer with a keen interest in building clean and efficient web applications. Constantly curious about learning new skills, tools, and concepts, I thrive on challenges and enjoy finding innovative solutions to problems. My experience spans across solo projects as well as collaborative work with creative teams, where effective communication and project management are key.
 
